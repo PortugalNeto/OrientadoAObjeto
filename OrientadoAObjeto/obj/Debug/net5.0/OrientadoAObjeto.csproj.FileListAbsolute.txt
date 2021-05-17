@@ -1,0 +1,16 @@
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.exe
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.deps.json
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.runtimeconfig.json
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.runtimeconfig.dev.json
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\ref\OrientadoAObjeto.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\bin\Debug\net5.0\OrientadoAObjeto.pdb
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.csprojAssemblyReference.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.AssemblyInfoInputs.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.AssemblyInfo.cs
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.csproj.CoreCompileInputs.cache
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\ref\OrientadoAObjeto.dll
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.pdb
+D:\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\Documentos\dotnet\OrientadoAObjeto\obj\Debug\net5.0\OrientadoAObjeto.genruntimeconfig.cache
